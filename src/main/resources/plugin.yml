@@ -1,0 +1,9 @@
+name: TelegramPlugin
+version: 1.0
+main: com.rukluf.telegram.Telegram
+author: hgqe
+description: Een eenvoudige Telegram plugin door hgqe_development.
+commands:
+  telegram:
+    description: Telegram hoofdcommando.
+    usage: /telegram <on|off|send|help>
